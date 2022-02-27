@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesty the King of Sweden's letter to the States Generall of the United Provinces</title>
+            <author>Sweden. Sovereign (1660-1697 : Charles XI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79405</idno>
+            <idno type="STC">Wing C3657B</idno>
+            <idno type="STC">ESTC R231360</idno>
+            <idno type="EEBO-CITATION">99897028</idno>
+            <idno type="PROQUEST">99897028</idno>
+            <idno type="VID">136997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136997)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2457:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesty the King of Sweden's letter to the States Generall of the United Provinces</title>
+                  <author>Sweden. Sovereign (1660-1697 : Charles XI)</author>
+                  <author>Charles XI, King of Sweden, 1655-1697.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London?:</pubPlace>
+                  <date>Printed anno Domini 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sweden --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Sweden --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136997:1"/>
+            <pb facs="tcp:136997:1"/>
+            <p>His MAJESTY THE King of Swedens LETTER TO THE STATES GENERALL OF THE UNITED PROVINCES.</p>
+            <p>Printed <hi>Anno Domini</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:136997:2"/>
+            <pb facs="tcp:136997:2"/>
+            <head>His <hi>Majeſty</hi> the King of <hi>Sweden</hi>'s Letter to the <hi>States General</hi> of the <hi>United Provinces.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E <hi>CHARLES</hi> by the Grace of God King of <hi>Sweden, &amp;c.</hi> To the High and Mighty Lords, the <hi>States General of the <g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>nited Province.</hi>
+            </p>
+            <p>
+               <hi>High and Mighty,</hi> how great have been the Friendſhips, and how conſiderable the Alli<g ref="char:EOLhyphen"/>ances, which have always paſt between Our Kingdom and the <hi>
+                  <g ref="char:V">Ʋ</g>nited Provinces,</hi> no perſon can be ignorant of, that ſhall have reflected upon the memora<g ref="char:EOLhyphen"/>ble Monuments of their preſervation; For the Faith, by which they are maintained, is moſt plain and unſuſpected to all men, and the ſignal conſtancy is equally known, by which they have con<g ref="char:EOLhyphen"/>tinued ſo long unmoved. The tranſmiſſion of this Faith, together with the Inheritance of Our Kingdom, We have taken ſo to heart, that we are reſolved, as well to diſcharge our ſelves in point of affection to our Friends and Allies, as to follow the footſteps of our Predeceſſors in other Actions of Honour and Glory. Wherefore we have always taken eſpecial care, not only to ſtand firm to that ancient Tye, but alſo to make it yet ſtricter, by the addition of New Obligations; which being evident to all that ſhall conſider, how readily we our ſelves have either given the occaſion of ſtrength<g ref="char:EOLhyphen"/>ning our Leagues by a ſtill cloſer Union, or accepted of it, when it preſented it ſelf; we make no queſtion, but when you your ſelves ſhall reflect upon the many Advantages in theſe conjuncture of af<g ref="char:EOLhyphen"/>fairs, which we have neglected, together with the tedious troubles
+<pb facs="tcp:136997:3"/> and difficulties, which we have willingly undergone, in order to the welfare of you, our good Friends and Allies; You will find no place to doubt of our fidelity towards you: while we had theſe things un<g ref="char:EOLhyphen"/>der conſideration, and were contriving, how we might joyn Coun<g ref="char:EOLhyphen"/>ſels with you, both for the reſtoring of a General Peace, and for the ſecuring of it, when reſtored, and even promiſing to our ſelves with great joy, the hopes of ſeeing that Peace ſpedily effected, and your Affairs by the bleſſing of Almighty God happily compoſed: We were ſurprized to underſtand, that inſtead of the friendly inclinations, which we expected from you, you were even at that time upon con<g ref="char:EOLhyphen"/>ſultations of War, and come already to a reſolution of Levying of Forces, and imploying them againſt Us; and that only for this reaſon, that, ſince the Elector of <hi>Brandenburgh,</hi> contrary to the hopes he had given us, by a Treaty lately concluded with us, (whoſe only Scope is the quiet of the Empire) and not regarding of that Inſtrument of Peace, in the Guarranty whereof we are likewiſe con<g ref="char:EOLhyphen"/>cerned; and ſo not adjuſting his proportion of Forces, by Rates, with the other Members of the Empire, in order to a Common de<g ref="char:EOLhyphen"/>fence, but by ſending a diſtinct and formed Army, hath taken ſuch violent Counſels, as are neither agreeable to the procuring of the pretended Peace, nor indeed ſafe to us, in regard that they increaſe thoſe evils the Empire hath ſo long laboured under, and endanger thoſe Intereſts, which we have a juſt right unto, by Vertue of the Treaty of <hi>Weſtphalia;</hi> we upon the conſideration aforeſaid, have been neceſſiated not to omit or neglect any of thoſe things, which we are obliged to by the Guarranty of the ſaid Treaty of <hi>Westphalia,</hi> or by the conſideration of our proper ſecurity. And this is a matter of ſuch a quality, as, whether we conſider our good affections towards you, or our own indefagitable endeavours, for the procuring of a Publick Peace, we cannot yet but be exceedingly moved at; little expecting, that we, who have ſo firmly adhered to the ancient friend<g ref="char:EOLhyphen"/>ſhip between Our Kingdom, and Your State, and ever preſerved it inviolably, and in preference to all other conſiderations whatſoe<g ref="char:EOLhyphen"/>ver: We, who have been ever ready to oblige your Common<g ref="char:EOLhyphen"/>wealth with all offices of kindneſs; and ever profeſſed to do what<g ref="char:EOLhyphen"/>ſoever might conduce to the ſtrengthning of our mutual Alliance, ſhould come at laſt to be treated by you, not as Confederates, but as Enemies: In which matter, whether you have requited us well
+<pb facs="tcp:136997:3"/> or ill, We Appeal to your own Juſtice. Nor can the pains, which we have impartially taken, for the reſtoring of Peace to the World, and to You, ſeem to merit at your hands, that any ſuch Counſels ſhould find place with you, as may endanger either our Security, or the diminution of our Honour and Safety. That paſſage of yours is indeed praiſe-worthy, where you profeſs your care of your Allian<g ref="char:EOLhyphen"/>ces and Confederates; But while you perſwade others by your own Example, that mutual Faith is not to be broken; you muſt alſo needs determine it to be unjuſt, that others ſhould therefore Arm a<g ref="char:EOLhyphen"/>gainſt us, becauſe we neither can, nor will be wanting to our Con<g ref="char:EOLhyphen"/>federate, or to the Treaty, to which we are Sworn. Nor is indeed our Treaty with the moſt Serene and moſt Potent King of <hi>France,</hi> ſo qualified, as that it may be called a New one, or ſuch as owes its right and force to the preſent Commotions only, but ſtands upon ſuch foundations, as are much antecedent in time and date to the War, in which you are now involved, and requires the ſame care from us, upon occaſion even of the preſent ſtate of Affairs, which had been as much our concern, although the War had not happened between the <hi>Moſt Chriſtian King, and you;</hi> which hath thus un<g ref="char:EOLhyphen"/>happily brought ſo many Princes and States of <hi>Europe</hi> into mutual effuſion of bloud. And truly if the Obligations of Oaths in Treaties, may paſs for any ſecurity to the Allies, it is to be hoped, you will eſteem your ſelves engaged, ſo to underſtand the cauſe of your other Confederates, that at the ſame time you take care, it be not to our prejudice, ſince we, who have merited nothing of this nature from you, are likewiſe in Alliance with you, and have Treaties between us ancient, and frequently renewed: Neither are we ſo tranſpor<g ref="char:EOLhyphen"/>ted with a blind deſire of War, as to deſign the deſtruction of your Confederate, but only intent upon a timely obviating and pre<g ref="char:EOLhyphen"/>venting the dangers we are expoſed to, by his Preparations, ſo far as is neceſſary for our own Safety. But if you purſue other Counſels, it will be in effect, not ſo much to ſtand to your Trea<g ref="char:EOLhyphen"/>ty, or undertake the defence of your Confederate, as to counte<g ref="char:EOLhyphen"/>nance his dangerous proceedings againſt us, which ſo much as to ſuſpect in you, will not conſiſt with the unfeigned and ſincere affection, we have ever paid you. And as the matter in queſtion between Us, and the Elector of <hi>Branderburgh,</hi> is wholly remote from what concerns your State, regarding only the quiet of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi>
+               <pb facs="tcp:136997:4"/> and looking wholy that way, to wit, that the Treaty of <hi>Weſt<g ref="char:EOLhyphen"/>phalia</hi> be not totaly trampled upon, and its Articles vilified and diſ<g ref="char:EOLhyphen"/>piſed; So that we muſt appear, to have rather deſired the Peace of the Empire, than defended it; So neither can our Arming give You any juſt cauſe of offence, ſince the pure neceſſity of looking to Our ſelves hath obliged Us to this Preparation. For, there is no War inten<g ref="char:EOLhyphen"/>ed upon You, which even then for Your Safty ſake We declined, when the bad condition of Your Affairs, and the juſt confidence of Our Succeſs might have invited Us thereunto: Nor beſides that can there be any damage or danger apprehended by You, form Our Pre<g ref="char:EOLhyphen"/>parations, which might divert the Aſſiſtance of Your Confederates, and that may haſten Your deſtruction, or obſtruct the Recovery of what You have Loſt; For it hath pleaſed the Divine Bounty, ſo to diſpoſe of You, that ſtanding now upon Your own legs again, the ac<g ref="char:EOLhyphen"/>ceſſion of other helps will not be needfull, for the recovery or preſer<g ref="char:EOLhyphen"/>vation of Your Commonwealth; much leſs thoſe helps, which muſt bring danger to the Treaty of <hi>Weſtphalia,</hi> (which will be likewiſe Your own Intreſt to preſerve inviolable) in the ſubvertion of ſo ma<g ref="char:EOLhyphen"/>ny States of the Empire, whoſe Houſes lye buried in the ruines of the War, and in the ſighs and tears of ſo many miſerable and periſh<g ref="char:EOLhyphen"/>ing perſons. In contemplation wherefore of all theſe things We can<g ref="char:EOLhyphen"/>not doubt, but your ſelves will determine, that to imploy your Armes againſt Us, cannot be juſt becauſe not necceſſary; and therefore the more unexcuſable, ſince all hopes of Peace being taken away (which began now to appear again) without any preſent enforcing danger, a door is opened for a new War, whereof no man living can foretell the end. But above all other miſchiefs, that will pro<g ref="char:EOLhyphen"/>bably enſue upon this War, how dreadfull will the conſideration be, of thoſe terrible Aſſaults of the <hi>Ott<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi> Fury, upon that an<g ref="char:EOLhyphen"/>cient Bulwark of Chriſtendom, the Kingdom of <hi>Poland,</hi> and the for<g ref="char:EOLhyphen"/>ſaken State of the Chriſtian Intreſt, while the Chriſtian Princes and Commonwealths are engaged in mutal rage and deſtruction, then which nothing can be more welcome to Turkiſh Tyranny, or more conducing to the Impoſition of that Yoak upon the Chriſtian Name? But it is now in Your power, to provide for the diviſions of Chriſten<g ref="char:EOLhyphen"/>dom, &amp; the concerns of Your Confederate by a remedy more gentle and ſafe, then can be found in the continuation of the preſent Ware,
+<pb n="7" facs="tcp:136997:4"/> or the addition of a freſh one, which is no other, then your Reſolution to perſwade him by a Friendly Admonition, not to purſue his preſent deſigne, but to incline to better Counſels, and by a ſpeedy Peace to out off and remove all impediments, and ariſing difficulties. And that you may be the better aſſured of our peacefull intentions, we moſt ſolemnly proteſt unto you, that as it is a matter of great grief unto us, that the Elector of <hi>Brandenburgh</hi> ſhould have too haſtily imbraced ſuch Counſels, as are neither conſiſtent with the Treaty made with us, not the ſincere affection we have allwayes borne unto him, &amp; to the Peace and the care of the promotion thereof, which he pretended to under<g ref="char:EOLhyphen"/>take in a common concerne with us, ſo likewiſe, as ſoon as the Elector either of his own accord, or by perſwaſion, and the interpoſition of your good Offices, ſhall be moved to retire with his Army, and ſhall proceed to ſuch Counſels, as ſhall not obſtruct, but ſacili<g ref="char:EOLhyphen"/>ate the publik quiate; and that we ſhall perceive a ſufficient provi<g ref="char:EOLhyphen"/>ſion to be made for the Peace of <hi>Weſtphalia,</hi> and for our own Safety, which depends upon its true and faithfull obſervance and warranty, that we will then meet him withall the readyneſs imaginable, in re<g ref="char:EOLhyphen"/>corning to our former mutual confidence, and will immediately with<g ref="char:EOLhyphen"/>draw our Forces out of all ſuch the Elector's Territories, as they have had Orders to march into: we will take care ſo to act, as that it may be viſible to the whole World, that in the imploying of our Armies we are not govern'd by any deſires of bringing on one Ware by an<g ref="char:EOLhyphen"/>other, or of aſiſting ſuch endeavours, to oppoſe the Peace, and de<g ref="char:EOLhyphen"/>ſigne the oppreſſion of others, much leſs to intend by, the ſeizure and poſſeſſion of any place belonging to the Elector, the Empire, or any other whatſoever; but do purely look to the promotion of Peace, and the defence of our own juſt Rights and Alliances. We hope alſo, that this aſſurance and Faith which we give you, for the truth and fi<g ref="char:EOLhyphen"/>delity of our Zeal to the Peace, may be ſufficient for your reliance and ſatisfaction, and may produce ſuch effects, as ſhall let You ſee Your ſelves that there is no juſt cauſe for the drawing Your Forces upon Us, but that You will apply Your ſelves to ſuch conſiderations and meaſures, as may evidence thoſe generous and frequen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Proteſtations of Your good inclinations to Peace, and con<g ref="char:EOLhyphen"/>firm Our hopes, of finding Your proceedings eaqual and proportion<g ref="char:EOLhyphen"/>able to the good affections, We have for your ſelves, and all Your concerns.</p>
+            <pb n="8" facs="tcp:136997:5" rendition="simple:additions"/>
+            <p>But if it ſhould happen otherwiſe, which God forbid, We ſhall bear Our ſelves upon the Juſtice that is on Our ſide, being moſt confi<g ref="char:EOLhyphen"/>dent, that Our Cauſe and good intentions will have together with the Divine Aſſiſtance all the Succeſs that can be deſired, and the favour and encouragement of all the Lovers of Peace and Juſtice. In the mean time, We have not receded in the leaſt from the Reſolution We have always owned, of living amicably with You, nor ſhall We be found, to have remitted any thing of the deſire We have always entertained of preſerving the Publick and Common Tranquility, and of contending with You only by ſuch arguments of Friendſhip and good will that it may be a queſtion, whether We are more ready, or You more inclined to ſuch endeavours and methods, as may prove effectual for the lengthning and preſerving of Our mutual Frindſhip, and the continuation of it to poſterity. All which Our Extraordinary Ambaſſador and Chancellor of Our Court, the Noble and Right-truſty <hi>Edward Ehrenſteen,</hi> Hereditary Lord of <hi>Forsbygard, &amp;c.</hi> hav<g ref="char:EOLhyphen"/>ing Orders to expreſs more at large, We refur our ſelves to him, and ſo concluding theſe preſents, We moſt heartily recom<g ref="char:EOLhyphen"/>mend You to Almighty God, the Author of Peace, wiſhing You all happineſs and proſperity. Dated, <hi>&amp;c.</hi> the 5th. of <hi>December,</hi> 1674.</p>
+            <closer>
+               <signed>Your good Friend and Confederate, CHARLES. <hi>H. HOGHUSEN.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:136997:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
